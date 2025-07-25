@@ -80,5 +80,5 @@ Inventory Managers – for optimizing stock based on purchase trends
 
 🙋‍♀️ About Me
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Hi, I'm Nikita Albela, passionate about turning raw data into business insights through clean analysis and compelling storytelling. I enjoy working on real-world projects that merge creativity with data.
+Hi, I'm Nikita Albela, I am transitioning into Data Analytics and I'm passionate about turning raw data into business insights through clean analysis and compelling storytelling. I enjoy working on real-world projects that merge creativity with data.
 Connect with me on Linkedin - www.linkedin.com/in/nikita-albela-4194b1164 
